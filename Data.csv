@@ -1,0 +1,21 @@
+customer_fullname,pickup_point,dropoff_point,fare,driver_name,date_data,reserved
+"Rajiv Gandhi",Airport,Parliament,45,Sanjay,1996-05-24,"Not Available"
+"Naman Arora",Airport,School,15,Sanjay,1999-07-24,"Not Available"
+"Saurabh Shah",School,Parliament,41,Durga,2006-01-04,Available
+"Shubhi Jain",University,Office,24,Abhi,1999-08-14,Available
+"Ruchi Jain",Airport,Parliament,52,Nikita,2008-06-12,"Not Available"
+"Vishesh Patel",Airport,University,47,Abhi,1996-10-31,Available
+"Shrey Patel",Airport,Parliament,88,Durga,2014-11-01,"Not Available"
+"Shairya Nayak",Office,School,11,Sanjay,2022-12-05,Available
+"Nishtha Pal",University,Parliament,43,Nikita,2023-05-23,Available
+"Supriya Bajaj",School,Office,26,Palak,2011-02-12,"Not Available"
+"Kiran Goyal",Airport,Parliament,27,Niyati,2012-01-31,Available
+"Calvin Klein",Office,Airport,8,Palak,2030-04-01,"Not Available"
+"Gopal Krishna",Home,Parliament,67,Niyati,1998-03-06,Available
+"Sanjay Rajput",Airport,Parliament,38,Rajesh,1996-05-12,"Not Available"
+"Namita Yadav",Airport,Parliament,19,Sanjay,1997-07-19,Available
+"Nhi Lam",Airport,Parliament,91,Mahesh,2017-09-24,"Not Available"
+"Salena Tran",Airport,Parliament,29,Rajesh,2019-08-22,Available
+"Pooja Mehta",Airport,Parliament,33,Mahesh,2013-05-23,"Not Available"
+"Ishika Jain",Airport,Airport,20,Rajesh,2020-05-20,"Not Available"
+"Fagun Desai",School,Parliament,45,Hardik,2022-01-24,Available
